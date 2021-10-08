@@ -2175,11 +2175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
       "projectName": "XamarinApplication.Android",
-      "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
+      "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
       "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.Android\\obj\\",
+      "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2200,8 +2200,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
-              "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj"
+            "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
+              "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj"
             }
           }
         }

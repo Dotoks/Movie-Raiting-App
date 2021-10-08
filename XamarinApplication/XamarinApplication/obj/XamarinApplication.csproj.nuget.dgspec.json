@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {}
+    "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
+    "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
         "projectName": "XamarinApplication",
-        "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
+        "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
         "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\obj\\",
+        "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

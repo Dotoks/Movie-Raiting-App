@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0eg7Dz0G0ihoT22drM5jIDrZ6zC6S0fJpdoTRNqd1RwlK8/Qk/vyEJ3L4+IWC8UpuL9gshisKROTlHXEBBHSuw==",
+  "dgSpecHash": "aDaNbla8tQQinxebgzoqRV78NkP625M3yq7MJvfLI5hg5qjFNl/PES5Z8Ud5Ej9FHCEfn7uGB0od/ErAlqcqzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
+  "projectFilePath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.Android\\XamarinApplication.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

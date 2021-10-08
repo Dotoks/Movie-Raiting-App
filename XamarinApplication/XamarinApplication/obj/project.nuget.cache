@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ykSxi9Df1icH4ghJ5OkiIOMHAt/NbR7ko3FY4yjIn/SFrfn2vPOy5Zpj8EBi7bcoKLTF7x16y9xXlnNovqFGoA==",
+  "dgSpecHash": "AdKX/Z0H4CG5q9CMJK0hADUG8I4ChIsB02qHm86IuH/eqnyfO3s/Feflu4pgOEmpCxz/zBL7m6BtV6EzEo0R/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
+  "projectFilePath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ivo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1066,11 +1066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.iOS\\XamarinApplication.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.iOS\\XamarinApplication.iOS.csproj",
       "projectName": "XamarinApplication.iOS",
-      "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.iOS\\XamarinApplication.iOS.csproj",
+      "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.iOS\\XamarinApplication.iOS.csproj",
       "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1091,8 +1091,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
-              "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj"
+            "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj": {
+              "projectPath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\Movie-Raiting-App\\XamarinApplication\\XamarinApplication\\XamarinApplication.csproj"
             }
           }
         }
