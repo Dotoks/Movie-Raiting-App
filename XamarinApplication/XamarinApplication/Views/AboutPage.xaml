@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinApplication.Views.AboutPage"
+             xmlns:vm="clr-namespace:XamarinApplication.ViewModels"
+             xmlns:m="clr-namespace:XamarinApplication.Models"
+             xmlns:fRating="clr-namespace:Rating;assembly=Rating">
+
+    
+
+    <CollectionView ItemsSource="{Binding Movies}"
+                SelectionMode="Single"
+                SelectionChanged="OnSelectionChanged"
+                        BackgroundColor="DarkCyan">
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Grid Padding="10"
+                  RowDefinitions="Auto, *"
+                  ColumnDefinitions="Auto, *">
+                    
+                    <Image Grid.RowSpan="2"
+                       Source="{Binding ImageUrl}"
+                       Aspect="AspectFill"
+                       HeightRequest="60"
+                       WidthRequest="60" />
+                   
+                    <Label Grid.Column="1"
+                       Text="{Binding Name}"
+                       FontAttributes="Bold" />
+
+                    <fRating:RatingBar SelectedStarValue="0"
+                                       ImageHeight="30"
+                                       ImageWidth="30"
+                                       FlowDirection="LeftToRight"
+                                       EmptyStarImage="emptystar"
+                                       FillStarImage="fullstar"
+                                       HorizontalOptions="Start"
+                                       Margin="20"
+                                       Padding="20"
+                                       Grid.Column="1"
+                                       ></fRating:RatingBar>
+
+                </Grid>
+                
+            </DataTemplate>
+            
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>

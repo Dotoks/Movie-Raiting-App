@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJJxoxScQ8sqZt/vw2klKNKsBzpL4K0AuxDMQ09pZwVD3BK1w62pAK91FkZbViP7yaYitxPLjUviRLK7YYTX2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivo\\source\\repos\\XamarinApplication\\XamarinApplication\\XamarinApplication.iOS\\XamarinApplication.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Ivo\\.nuget\\packages\\xamarin.rating\\1.0.0.2\\xamarin.rating.1.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
